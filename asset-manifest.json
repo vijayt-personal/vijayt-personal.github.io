@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vijayt-personal.github.io/static/css/main.d1d1cfa5.css",
-    "main.js": "/vijayt-personal.github.io/static/js/main.a2690ee6.js",
-    "static/js/787.05630f23.chunk.js": "/vijayt-personal.github.io/static/js/787.05630f23.chunk.js",
-    "static/media/logo.svg": "/vijayt-personal.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/vijayt-personal.github.io/index.html",
-    "main.d1d1cfa5.css.map": "/vijayt-personal.github.io/static/css/main.d1d1cfa5.css.map",
-    "main.a2690ee6.js.map": "/vijayt-personal.github.io/static/js/main.a2690ee6.js.map",
-    "787.05630f23.chunk.js.map": "/vijayt-personal.github.io/static/js/787.05630f23.chunk.js.map"
+    "main.css": "/static/css/main.d1d1cfa5.css",
+    "main.js": "/static/js/main.0caaddd1.js",
+    "static/js/787.05630f23.chunk.js": "/static/js/787.05630f23.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.d1d1cfa5.css.map": "/static/css/main.d1d1cfa5.css.map",
+    "main.0caaddd1.js.map": "/static/js/main.0caaddd1.js.map",
+    "787.05630f23.chunk.js.map": "/static/js/787.05630f23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d1cfa5.css",
-    "static/js/main.a2690ee6.js"
+    "static/js/main.0caaddd1.js"
   ]
 }
